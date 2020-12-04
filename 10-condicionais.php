@@ -29,7 +29,7 @@ echo "<hr>";
  case
 */
 
- $cor = "vdsdsg";
+ $cor = "vermelho";
 
  switch ($cor):
  	case 'vermelho':
@@ -48,3 +48,5 @@ echo "<hr>";
  		echo "sua cor preferida não é vermelho nem verde nem azul";
 
  endswitch;
+
+ 
